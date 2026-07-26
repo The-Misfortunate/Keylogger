@@ -1,4 +1,5 @@
 # Keylogger
-a silent Keylogger for Windows Operating system , to use it add it in a wellknown folder , add that folder to windows Defender exlusions and simply run it 
-it would output an output.txt file that keeps on updating on each key stroke next it 
+a silent stand alone Keylogger for Windows Operating system , to use it add it simply double click it and what ever name you change the file too it would be visible with that name in the task manager under details 
+it will log key presses and releases with time and saves them at %AppData%/PCS7_WatchDog 
+to make it run with windows power , add a trigger using windows task scheduler 
 
